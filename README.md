@@ -4,4 +4,5 @@
 
 | GitHub | 맡은 일 |
 |---|---|
-| kim-ch2 | 화면 구성 |
+|@kwonminsooo| 화면구성 |
+| kim-ch2 | 기획 |
