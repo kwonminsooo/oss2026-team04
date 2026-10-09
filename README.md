@@ -4,3 +4,4 @@
 
 | GitHub | 맡은 일 |
 |---|---|
+|@kwonminsooo| 기획 |
